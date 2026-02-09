@@ -1,6 +1,6 @@
-# 🌞 Intelligent Solar Energy Generation Forecasting and Agentic Grid Optimization System
+# Intelligent Solar Energy Generation Forecasting and Agentic Grid Optimization System
 
-## 📌 Project Overview
+##  Project Overview
 
 This project aims to design and implement an **AI-driven solar energy forecasting and grid optimization system**. The system predicts solar power generation using historical and weather-related data and extends this capability into an **agentic AI assistant** that generates structured, explainable recommendations for grid optimization and energy utilization.
 
@@ -13,7 +13,7 @@ The final application is **publicly hosted**, uses **only free-tier/open-source 
 
 ---
 
-## 🎯 Problem Statement & Use Case
+##  Problem Statement & Use Case
 
 Solar energy generation is highly variable due to weather conditions and seasonal patterns. Grid operators require accurate forecasts and intelligent decision support to:
 
@@ -30,7 +30,7 @@ This project provides:
 
 ---
 
-## 🏗️ Overall System Architecture
+##  Overall System Architecture
 
 ### High-Level Architecture
 
@@ -66,11 +66,11 @@ Forecast Outputs (Structured Data)
            Structured Grid Optimization Report
 ```
 
-> 📌 *Note:* The agentic AI system provides **decision-support recommendations** only and does not directly control any grid infrastructure.
+>  *Note:* The agentic AI system provides **decision-support recommendations** only and does not directly control any grid infrastructure.
 
 ---
 
-## 🧩 Milestone 1: ML-Based Solar Energy Forecasting (Mid-Sem)
+##  Milestone 1: ML-Based Solar Energy Forecasting (Mid-Sem)
 
 ### Objective
 
@@ -120,7 +120,7 @@ Build a machine learning or time-series forecasting system to predict solar ener
 
 ---
 
-## 🤖 Milestone 2: Agentic AI Grid Optimization Assistant (End-Sem)
+##  Milestone 2: Agentic AI Grid Optimization Assistant (End-Sem)
 
 ### Objective
 
@@ -160,7 +160,7 @@ The generated report includes:
 
 ---
 
-## 🧪 Dataset
+## Dataset
 
 * **Solar Energy Power Generation Dataset**
 * Source: Kaggle
@@ -176,7 +176,7 @@ The generated report includes:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Core Technologies
 
@@ -193,12 +193,12 @@ The generated report includes:
 | Vector Store    | FAISS / Chroma                           | Knowledge retrieval (RAG)           |
 | Hosting         | Hugging Face Spaces                      | Public deployment                   |
 
-> ❗ No paid APIs are used in this project.
+>  No paid APIs are used in this project.
 
 ---
 
 
-## ⚙️ Project Setup Guide
+##  Project Setup Guide
 
 ### 1️⃣ Clone the Repository
 
@@ -252,7 +252,7 @@ This notebook contains exploratory data analysis including:
 
 ---
 
-## 🎮 How to Use the Application
+##  How to Use the Application
 
 1. **Launch the App**
    ```bash
@@ -277,7 +277,7 @@ This notebook contains exploratory data analysis including:
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 The application is deployed using **Hugging Face Spaces (Streamlit)**:
 
@@ -287,7 +287,7 @@ The application is deployed using **Hugging Face Spaces (Streamlit)**:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Integration of real-time weather data (free APIs)
 * Advanced deep learning models (LSTM, Temporal CNNs)
@@ -296,7 +296,7 @@ The application is deployed using **Hugging Face Spaces (Streamlit)**:
 
 ---
 
-## 👥 Project Contributors
+##  Project Contributors
 
 * [Yashveer Singh](https://github.com/Yashsingh045)
 * [Abhay Pratap Yadav](https://github.com/QUBITABHAY)
